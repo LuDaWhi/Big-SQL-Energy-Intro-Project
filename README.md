@@ -1,5 +1,5 @@
 # Big-SQL-Energy-Intro-Project
-My first Data Analytics project in SQL, courtesy of Jess Ramos at 'Big Data Energy' (BDE).
+Exploratory data analysis project using SQL to select and sort an electronics store's orders data to determine which of their customers have made purchases and which product types have been sold to them.
 
 ## 📁 Project Files
 - `customers.csv` — Original dataset
@@ -12,9 +12,9 @@ My first Data Analytics project in SQL, courtesy of Jess Ramos at 'Big Data Ener
 
 ## 📊 Insights
 
-All the business's orders were made by seven different customers.
+All the store's orders were made by seven different customers.
 
-The business has sold five different products types to those customers, as follows:
+The store has sold five different products types to those customers, as follows:
 
 - Keyboard
 - Laptop
