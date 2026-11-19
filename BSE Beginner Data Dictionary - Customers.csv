@@ -1,0 +1,10 @@
+Column,Data Type,Description
+customer_id,VARCHAR,Unique identifier for each customer (Primary Key)
+first_name,VARCHAR,Customer's first name
+last_name,VARCHAR,Customer's last name
+shipping_address,VARCHAR,Customer's shipping address
+state,VARCHAR,Customer's state
+city,VARCHAR,Customer's city
+email,VARCHAR,Customer's email address
+phone_number,VARCHAR,Customer's phone number
+gender,VARCHAR,Customer's gender

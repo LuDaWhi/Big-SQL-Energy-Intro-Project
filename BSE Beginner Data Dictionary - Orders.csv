@@ -1,0 +1,11 @@
+Column,Data Type,Description
+order_id,VARCHAR,Unique identifier for each order (Primary Key)
+customer_id,VARCHAR,Identifier of the customer who placed the order (Foreign Key)
+order_date,DATE,Date when the order was placed
+product_name,VARCHAR,Name of the product ordered
+quantity,INT,Quantity of the product ordered
+price,DECIMAL,Price of the product
+payment_method,VARCHAR,Payment method used for the order
+shipping_date,DATE,Date when the order was shipped
+review,INT,"Review of the product (1 for reviewed, null for no review)"
+coupon,DECIMAL,Coupon applied to the order
