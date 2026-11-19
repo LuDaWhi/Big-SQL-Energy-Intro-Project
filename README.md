@@ -12,8 +12,12 @@ My first Data Analytics project in SQL, courtesy of Jess Ramos at 'Big Data Ener
 
 ## 📊 Insights
 
-All the orders in the table were made by seven different customers.
+All the business's orders were made by seven different customers.
 
-The business has sold # different products, as follows:
+The business has sold five different products types to those customers, as follows:
 
-    - 
+- Keyboard
+- Laptop
+- Monitor
+- Mouse
+- Webcam
