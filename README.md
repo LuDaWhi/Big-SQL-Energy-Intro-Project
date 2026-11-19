@@ -1,5 +1,4 @@
 # Big-SQL-Energy-Intro-Project
-Exploratory data analysis project using SQL to select and sort an electronics store's orders data to determine which of their customers have made purchases and which product types have been sold to them.
 
 ## 📁 Project Files
 - `customers.csv` — Original dataset
