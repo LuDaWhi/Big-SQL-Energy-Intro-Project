@@ -1,4 +1,4 @@
-# Big-SQL-Energy-Intro-Project
+# 💻 Analysing Customer Orders at an Electronics Store
 
 ## 📁 Project Files
 - `customers.csv` — Original dataset
